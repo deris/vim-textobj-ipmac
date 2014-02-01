@@ -10,6 +10,11 @@ Support following.
 - IPv4-mapped IPv6 address
 - MAC address
 
+Screenshot
+---
+
+![screenshot](http://gifzo.net/WdfrrI8Uue.gif)
+
 Install
 ---
 
