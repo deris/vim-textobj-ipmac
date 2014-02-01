@@ -1,7 +1,7 @@
 textobj-ipmac
 ===
 
-This is Vim plugin for treating IP address or MAC address as text object.
+This is Vim plugin to provide text objects to select IP address or MAC address.
 
 Support following.
 
